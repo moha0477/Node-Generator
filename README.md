@@ -26,7 +26,8 @@ In the terminal, enter npm init to initialize packages before installing all of 
 
 ## DEMO
 
-![README Generator Demo](demo/README-Generator.gif)
+![README Generator Demo](Develop/demo/README-Generator.gif)
+
 
 ## License 
   
