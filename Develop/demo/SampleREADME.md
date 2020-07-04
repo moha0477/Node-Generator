@@ -34,8 +34,8 @@
   You may refer to the questions tab for my personal info and reach out to me with any collaboration inquiries.
 
   ## Tests
-  
-  You can find an example of this in the link that has been posted in the project’s README.md file. 
+ 
+  Go the extra mile and write tests for your application. Then provide examples on how to run them.md file. 
 
   ## Questions
   
