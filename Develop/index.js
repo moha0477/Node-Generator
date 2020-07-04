@@ -12,11 +12,6 @@ const writeFileAsync = util.promisify(writeToFile);
 const questions = [
     {
         type: "input",
-        name: "repository",
-        message: "What is the name of your GitHub repository?"
-    },
-    {
-        type: "input",
         name: "title",
         message: "What is the title of your project?"
     },
